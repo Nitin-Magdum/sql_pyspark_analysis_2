@@ -10,7 +10,7 @@ git clone https://github.com/Nitin-Magdum/sql_pyspark_analysis_2.git
 
 2. **Navigate to the Project Directory**
 ```bash
-cd sql_pyspark_analysis
+cd sql_pyspark_analysis_2
 ```
 3. **Install Required Dependencies**
 This project requires certain Python libraries to run properly. These dependencies are listed in the `requirements.txt` file. You can install them using the following command:
