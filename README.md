@@ -4,7 +4,7 @@ To set up the project and run the PySpark application, follow these steps:
 1.  **Clone the Repository**
 First, clone the repository to your local machine. Open a terminal and run:
 ```bash
-git clone https://github.com/Nitin-Magdum/sql_pyspark_analysis_1.git
+git clone https://github.com/Nitin-Magdum/sql_pyspark_analysis_2.git
 ```
   
 
