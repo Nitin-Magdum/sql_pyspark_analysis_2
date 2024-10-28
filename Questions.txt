@@ -1,0 +1,101 @@
+Q-1. Fetch “FIRST_NAME” from Worker table using the alias name as <WORKER_NAME>.
+
+Q-2. Fetch “FIRST_NAME” from Worker table in upper case.
+
+Q-3. Fetch unique values of DEPARTMENT from Worker table.
+
+Q-4. Print the first three characters of FIRST_NAME from Worker table.
+
+Q-5. Find the position of the alphabet (‘b’) in the first name column ‘Amitabh’ from Worker table.
+
+Q-6. Print the FIRST_NAME from Worker table after removing white spaces from the right side.
+
+Q-7. Print the DEPARTMENT from Worker table after removing white spaces from the left side.
+
+Q-8. Fetch the unique values of DEPARTMENT from Worker table and print its length.
+
+Q-9. Print the FIRST_NAME from Worker table after replacing ‘a’ with ‘A’.
+
+Q-10. Print the FIRST_NAME and LAST_NAME from Worker table into a single column COMPLETE_NAME. A space char should separate them.
+
+Q-11. Print all Worker details from the Worker table order by FIRST_NAME Ascending.
+
+Q-12. Print all Worker details from the Worker table order by FIRST_NAME Ascending and DEPARTMENT Descending.
+
+Q-13. Print details for Workers with the first name as “Vipul” and “Satish” from Worker table.
+
+Q-14. Print details of workers excluding first names, “Vipul” and “Satish” from Worker table.
+
+Q-15. Print details of Workers with DEPARTMENT name as “Admin*”.
+
+Q-16. Print details of the Workers whose FIRST_NAME contains ‘a’.
+
+Q-17. Print details of the Workers whose FIRST_NAME ends with ‘a’.
+
+Q-18. Print details of the Workers whose FIRST_NAME ends with ‘h’ and contains six alphabets.
+
+Q-19. Print details of the Workers whose SALARY lies between 100000 and 500000.
+
+Q-20. Print details of the Workers who have joined in Feb’2014.
+
+Q-21. Fetch the count of employees working in the department ‘Admin’.
+
+Q-22. Fetch worker full names with salaries >= 50000 and <= 100000.
+
+Q-23. Fetch the no. of workers for each department in the descending order.
+
+Q-24. Print details of the Workers who are also Managers.
+
+Q-25. Fetch number (more than 1) of same titles in the ORG of different types.
+
+Q-26. Show only odd rows from a table.
+
+Q-27. Show only even rows from a table.
+
+Q-28. Clone a new table from another table.
+
+Q-29. Fetch intersecting records of two tables.
+
+Q-30. Show records from one table that another table does not have.
+
+Q-31. Show the current date and time.
+
+Q-32. Show the top n (say 5) records of a table order by descending salary.
+
+Q-33. Determine the nth (say n=5) highest salary from a table.
+
+Q-34. Determine the 5th highest salary without using LIMIT keyword.
+
+Q-35. Fetch the list of employees with the same salary.
+
+Q-36. Show the second highest salary from a table using sub-query.
+
+Q-37. Show one row twice in results from a table.
+
+Q-38. List worker_id who does not get bonus.
+
+Q-39. Fetch the first 50% records from a table.
+
+Q-40. Fetch the departments that have less than 4 people in it.
+
+Q-41. Show all departments along with the number of people in there.
+
+Q-42. Show the last record from a table.
+
+Q-43. Fetch the first row of a table.
+
+Q-44. Fetch the last five records from a table.
+
+Q-45. Print the name of employees having the highest salary in each department.
+
+Q-46. Fetch three max salaries from a table using co-related subquery.
+
+Q-47. Fetch three min salaries from a table using co-related subquery.
+
+Q-48. Fetch nth max salaries from a table.
+
+Q-49. Fetch departments along with the total salaries paid for each of them.
+
+Q-50. Fetch the names of workers who earn the highest salary.
+
+

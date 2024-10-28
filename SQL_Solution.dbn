@@ -1,0 +1,13 @@
+{
+ "cells": [
+  {
+   "kind": 2,
+   "language": "sql",
+   "value": "select * from bonus",
+   "metadata": {
+    "connectionName": "worker"
+   }
+  }
+ ],
+ "metadata": {}
+}
