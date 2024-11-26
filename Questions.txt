@@ -97,5 +97,3 @@ Q-48. Fetch nth max salaries from a table.
 Q-49. Fetch departments along with the total salaries paid for each of them.
 
 Q-50. Fetch the names of workers who earn the highest salary.
-
-
